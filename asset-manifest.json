@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.906f5a24.chunk.css",
-    "main.js": "/static/js/main.ab8d16eb.chunk.js",
-    "main.js.map": "/static/js/main.ab8d16eb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a4cc9ccf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a4cc9ccf.js.map",
-    "static/js/2.7be40522.chunk.js": "/static/js/2.7be40522.chunk.js",
-    "static/js/2.7be40522.chunk.js.map": "/static/js/2.7be40522.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.906f5a24.chunk.css.map": "/static/css/main.906f5a24.chunk.css.map",
-    "static/js/2.7be40522.chunk.js.LICENSE.txt": "/static/js/2.7be40522.chunk.js.LICENSE.txt"
+    "main.css": "/appTransferencia_REACT/static/css/main.906f5a24.chunk.css",
+    "main.js": "/appTransferencia_REACT/static/js/main.ab8d16eb.chunk.js",
+    "main.js.map": "/appTransferencia_REACT/static/js/main.ab8d16eb.chunk.js.map",
+    "runtime-main.js": "/appTransferencia_REACT/static/js/runtime-main.ea5fe11f.js",
+    "runtime-main.js.map": "/appTransferencia_REACT/static/js/runtime-main.ea5fe11f.js.map",
+    "static/js/2.7be40522.chunk.js": "/appTransferencia_REACT/static/js/2.7be40522.chunk.js",
+    "static/js/2.7be40522.chunk.js.map": "/appTransferencia_REACT/static/js/2.7be40522.chunk.js.map",
+    "index.html": "/appTransferencia_REACT/index.html",
+    "static/css/main.906f5a24.chunk.css.map": "/appTransferencia_REACT/static/css/main.906f5a24.chunk.css.map",
+    "static/js/2.7be40522.chunk.js.LICENSE.txt": "/appTransferencia_REACT/static/js/2.7be40522.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4cc9ccf.js",
+    "static/js/runtime-main.ea5fe11f.js",
     "static/js/2.7be40522.chunk.js",
     "static/css/main.906f5a24.chunk.css",
     "static/js/main.ab8d16eb.chunk.js"
